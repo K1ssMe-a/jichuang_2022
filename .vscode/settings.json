@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "lcdi.h": "c",
+        "matrix.h": "c",
+        "type_traits": "c"
+    }
+}
